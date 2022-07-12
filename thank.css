@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+.message{
+    font-family:Arial, Helvetica, sans-serif;
+    display:block;
+    align-items:center;
+    justify-content:center;
+    margin:auto;
+    width:50%;
+    height:60vh;
+    text-align:center;
+    background:blue;
+    color:white;      
+}
+
+.message p{
+    margin-top:130px;
+    padding-top: 180px;
+    font-weight:bold;
+    font-size:30px;
+}
